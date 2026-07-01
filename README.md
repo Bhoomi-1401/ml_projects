@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-This repository contains my Machine Learning projects, experiments, and practice work as I progress toward becoming an AI Engineer..
+This repository contains my Machine Learning projects, experiments, and practice work as I progress toward becoming an AI Engineer.
 
 ## Repository Structure
 
